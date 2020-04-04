@@ -2,22 +2,21 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 //import PrimeiroComponente from './componente/primeiroComponente'
 //import CompAA,{ CompB} from './componente/primeiroComponente';
-//import FamiliaComp from './componente/FamiliaComp'
+/*  import FamiliaComp from './componente/FamiliaComp'
 
-import Familia from './componente/Familia'
-import Membro from './componente/Membro'
+ import Familia from './componente/Familia'
+import Membro from './componente/Membro'   */
+
+//import Funcionario from './componente/Funcionario';
 
 
+import {ComponentComFuncao} from './componente/ComponentComFuncao';
 const elemento = document.getElementById('root'); 
 
 
 ReactDOM.render(
     <div>
-       <Familia sobrenome="Santos">
-           <Membro nome="gledson" />
-           <Membro nome="glendha" />
-           <Membro nome="alcione" />
-       </Familia>
+       <ComponentComFuncao />
     </div>
         
     
