@@ -2,7 +2,7 @@
   <img src="https://reactjsexample.com/content/images/2018/12/React-onscreen.gif"><img/>
 </p>
 
-## Repositório reservado para práticas de um curso de React
+## Repositório reservado para algumas práticas de um curso de React
 
 - [x] *Componente classe*
 - [x] *Herança de classe*
